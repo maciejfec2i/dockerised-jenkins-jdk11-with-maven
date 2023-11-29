@@ -2,7 +2,7 @@
 Custom Docker Image for Jenkins with Maven installed.
 
 ## Setting Up
-Download the repo as a zip, or fork and pull. <br><br>
+Download the repo as a zip [here](https://github.com/maciejfec2i/dockerised-jenkins-jdk11-with-maven/zipball/main), or fork and pull. <br><br>
 Run the following commands:
 ```
 docker build -t jenkins-jdk11-with-maven .
